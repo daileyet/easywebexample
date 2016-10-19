@@ -59,11 +59,12 @@ id="EasywebFramework" version="3.0">
   </listener>
   <context-param>
     <param-name>configureClassName</param-name>
-    <param-value>com.openthinks.easyweb.test.EasyWebConfigure</param-value>
+    <param-value>com.openthinks.easywebexample.EasyWebConfigure</param-value>
   </context-param>
+  <!-- remove this in production -->
    <context-param>
     <param-name>easywebClassDir</param-name>
-    <param-value>R:\MyGit\openlibs.easywebframework\easywebframeworkTest\target\classes</param-value>
+    <param-value>R:\MyGit\easywebexample\target\classes</param-value>
   </context-param>
   
 </web-app>

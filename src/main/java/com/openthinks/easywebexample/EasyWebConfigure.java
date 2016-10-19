@@ -1,4 +1,4 @@
-package com.openthinks.easyweb.test;
+package com.openthinks.easywebexample;
 
 import com.openthinks.easyweb.annotation.configure.EasyConfigure;
 import com.openthinks.easyweb.annotation.configure.RequestSuffixs;
@@ -8,7 +8,7 @@ import com.openthinks.easyweb.context.EasyWebFilterContexts;
 import com.openthinks.easyweb.context.WebContexts;
 
 @EasyConfigure
-@ScanPackages({ "com.openthinks.easyweb.test" })
+@ScanPackages({ "com.openthinks.easywebexample" })
 @RequestSuffixs(".do,.htm")
 public class EasyWebConfigure implements Bootstrap {
 

@@ -17,13 +17,13 @@
  * under the License.
  *
 * @Title: HelloService.java 
-* @Package com.openthinks.easyweb.test.service 
+* @Package com.openthinks.easywebexample.service 
 * @Description: TODO
 * @author dailey.yet@outlook.com  
 * @date Aug 25, 2016
 * @version V1.0   
 */
-package com.openthinks.easyweb.test.service;
+package com.openthinks.easywebexample.service;
 
 /**
  * @author dailey.yet@outlook.com

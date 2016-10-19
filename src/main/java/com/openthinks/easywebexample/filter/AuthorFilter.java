@@ -17,13 +17,13 @@
  * under the License.
  *
 * @Title: AuthorFilter.java 
-* @Package com.openthinks.easyweb.test.filter 
+* @Package com.openthinks.easywebexample.filter 
 * @Description: TODO
 * @author dailey.yet@outlook.com  
 * @date Aug 25, 2016
 * @version V1.0   
 */
-package com.openthinks.easyweb.test.filter;
+package com.openthinks.easywebexample.filter;
 
 import java.io.IOException;
 

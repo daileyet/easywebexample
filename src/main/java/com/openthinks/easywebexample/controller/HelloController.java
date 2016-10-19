@@ -1,4 +1,4 @@
-package com.openthinks.easyweb.test.controller;
+package com.openthinks.easywebexample.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -13,8 +13,8 @@ import com.openthinks.easyweb.annotation.Mapping;
 import com.openthinks.easyweb.annotation.ResponseReturn;
 import com.openthinks.easyweb.annotation.ResponseReturn.ResponseReturnType;
 import com.openthinks.easyweb.context.handler.WebAttributers;
-import com.openthinks.easyweb.test.service.HelloService;
 import com.openthinks.easyweb.utils.json.OperationJson;
+import com.openthinks.easywebexample.service.HelloService;
 
 @Controller
 public class HelloController {
